@@ -24,7 +24,12 @@ To play the game you have two choices:
    cd hey-thats-my-fish
    ```
     -   Simply Run main.exe
-  
+
+## Images
+
+<img src="https://github.com/amin-mlm/Hey-That-s-My-fish/blob/main/images/select_players.PNG?raw=true" alt="alt text" width="500" height="250"> <img src="https://github.com/amin-mlm/Hey-That-s-My-fish/blob/main/images/initial_board.PNG?raw=true" alt="alt text" width="500" height="250"><img src="https://github.com/amin-mlm/Hey-That-s-My-fish/blob/main/images/lose_sara_amin.PNG?raw=true" alt="alt text" width="500" height="250">
+<img src="https://github.com/amin-mlm/Hey-That-s-My-fish/blob/main/images/end_game.PNG?raw=true" alt="alt text" width="500" height="250">
+
 ---
 Enjoy playing Hey, That's My Fish! and may the best penguin win! 🐧🎣
 
